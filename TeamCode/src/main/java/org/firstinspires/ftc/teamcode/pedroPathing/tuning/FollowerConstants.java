@@ -25,9 +25,9 @@ public class FollowerConstants {
 
     // This section is for configuring your motors
     public static String leftFrontMotorName = "leftFront";
-    public static String leftRearMotorName = "leftRear";
+    public static String leftRearMotorName = "leftBack";
     public static String rightFrontMotorName = "rightFront";
-    public static String rightRearMotorName = "rightRear";
+    public static String rightRearMotorName = "rightBack";
 
     public static DcMotorSimple.Direction leftFrontMotorDirection = DcMotorSimple.Direction.REVERSE;
     public static DcMotorSimple.Direction rightFrontMotorDirection = DcMotorSimple.Direction.REVERSE;
